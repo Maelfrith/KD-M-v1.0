@@ -1,2 +1,2 @@
 # KD-M-v1.0
-New project to facilitate playing KDM and keeping track of or records.
+A project created to facilitate playing KDM and keeping track of or records.
